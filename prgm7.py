@@ -1,7 +1,4 @@
 #Dictionaries
-from tokenize import Name
-
-
 Dict = {}
 print("Empty Dictionaries:\n")
 print(Dict)
