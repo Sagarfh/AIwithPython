@@ -35,6 +35,7 @@ elif b>c:
 else:
     print("last c = ",c," value is big")
 
+
 # if-elif-else
 x=15
 y=12
@@ -45,6 +46,7 @@ elif x>y:
 else:
     print(x," is smaller than ",y)
 
+
 # for loop
 list = [1,2,3,4,5]
 
@@ -54,3 +56,29 @@ print("\n")
 
 for j in range(0,10):
     print(j, end = " ")
+print("\n")
+
+
+#while loop
+m=5
+i=0
+while i<m:
+    print(i, end=" ")
+    i = i + 1
+print("End \n")
+
+
+#break
+for i in range(10):
+    print(i, end = " ")
+    if i == 2:
+        print("Break Applied")
+        break
+print("Outside the loop \n")
+
+
+#continue
+for var in "Python world":
+    if var == "o":
+        continue
+    print(var, end = " ")

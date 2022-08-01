@@ -7,6 +7,7 @@ print(a," is not equal to ",b," : ",a is not b)
 print(a," is equal to ",c," : ",a is c)
 print(id(a))
 print(id(b))
+print(id(c))
 
 a='Hi'
 b='Python'
