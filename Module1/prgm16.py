@@ -6,9 +6,6 @@
 # S - Subtraction
 # A - Addition
 
-from cv2 import exp
-
-
 expr = 10 + 20 * 30
 print(expr)
 
