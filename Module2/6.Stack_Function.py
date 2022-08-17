@@ -1,6 +1,3 @@
-from dis import dis
-
-
 stack = []
 
 def empty():
@@ -10,14 +7,20 @@ def push_data(n):
     stack.append(n)
 
 def pop_data():
-    stack.pop()
+    if len(stack)==0:
+        print("No elements to Delete")
+    else:
+        stack.pop()
 
 def display():
-    print(stack)
+    if len(stack)==0:
+        print("No elements to Display")
+    else:
+        print(stack)
 
 while True:
     print("1.Push\t 2.Pop\t 3.Display\t 4.Exit")
-    n = int(input("Enter the choise : "))
+    n = int(input("Enter the choice : "))
 
     if n==1:
         element=int(input("Enter the element : "))
