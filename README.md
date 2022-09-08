@@ -27,7 +27,7 @@
 
 ## Assignment - 6
 ### 6.Generating Discrete Graphs for Trigonometric Functions 
-- [Answer Link](https://github.com/Sagarfh/AIwithPython/blob/master/Assignment/Assignment5/Graph.ipynb)
+- [Answer Link](https://github.com/Sagarfh/AIwithPython/blob/master/Assignment/Assignment6/DiscreteGraph.ipynb)
 
 
 
