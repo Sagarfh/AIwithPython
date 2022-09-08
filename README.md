@@ -7,23 +7,27 @@
 
 #### Python Functions, Advanced Concepts using Python lists, tuples, sets and dictionaries - Writing 25 Programs.
 
-- [Link](https://github.com/Sagarfh/AIwithPython/tree/master/Assignment/Assignment1)
+- [Answer Link](https://github.com/Sagarfh/AIwithPython/tree/master/Assignment/Assignment1)
 
 ## Assignment - 2
 ### 2.Python Functions - Writing Programs using lambda functions.
-- [Link](https://github.com/Sagarfh/AIwithPython/blob/master/Assignment/Assignment2/lambda.ipynb)
+- [Answer Link](https://github.com/Sagarfh/AIwithPython/blob/master/Assignment/Assignment2/lambda.ipynb)
 
 ## Assignment - 3
 ### 3.Designing CSV sheet with netflix.csv and produce meaningful results.
-- [Link](https://github.com/Sagarfh/AIwithPython/blob/master/Assignment/Assignment3/ReadCSV.ipynb)
+- [Answer Link](https://github.com/Sagarfh/AIwithPython/blob/master/Assignment/Assignment3/ReadCSV.ipynb)
 
 ## Assignment - 4
 ### 4.Creating Classes and inheriting the properties of parent class ( Using 5 Classes).
-- [Link](https://github.com/Sagarfh/AIwithPython/blob/master/Assignment/Assignment4/Classes.ipynb)
+- [Answer Link](https://github.com/Sagarfh/AIwithPython/blob/master/Assignment/Assignment4/Classes.ipynb)
 
 ## Assignment - 5
 ### 5.Reading netflix.csv file obtaining the meaningful graphs.
-- [Link](https://github.com/Sagarfh/AIwithPython/blob/master/Assignment/Assignment5/Graph.ipynb)
+- [Answer Link](https://github.com/Sagarfh/AIwithPython/blob/master/Assignment/Assignment5/Graph.ipynb)
+
+## Assignment - 6
+### 6.Generating Discrete Graphs for Trigonometric Functions 
+- [Answer Link](https://github.com/Sagarfh/AIwithPython/blob/master/Assignment/Assignment5/Graph.ipynb)
 
 
 
