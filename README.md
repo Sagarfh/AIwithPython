@@ -1,4 +1,4 @@
-# AI With Python`#f03c15`
+# AI With Python
 
 # Assignments
 ## Assignment - 1
