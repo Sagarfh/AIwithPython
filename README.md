@@ -33,6 +33,12 @@
 - Write a program to sort unsorted numbers using list in ascending order.
 - Find fibonacci series up to n using lambda expression (Sample Output : 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 233, 377, 610, 987, 1597, 2584, 4181.)
 
+- [Answers](https://github.com/Sagarfh/AIwithPython/blob/master/SurprizeTest/Programs.ipynb)
+
+
+# Test Questions and Answers
+- [Test-1](https://github.com/Sagarfh/AIwithPython/blob/master/Test/1.TestAnswers_SagarHonnabindagi.pdf)
+- [Test-2](https://github.com/Sagarfh/AIwithPython/blob/master/Test/2.Test_Answers.ipynb)
 
 
 
